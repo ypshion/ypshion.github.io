@@ -7,12 +7,19 @@ layout: home
 
 訪問ありがとうございます。ごゆっくりどうぞ。
   
-[-About](About)  
+[-About][About]  
 
 **~Game~**  
-[-Develop](Game-Dev)  
-[-Play](Game-Play)  
+[-Develop][Game-Dev]  
+[-Play][Game-Play]  
 **~Illust~**  
-[-Illust](Illust)  
+[-Illust][Illust]  
 **~Program~**  
-[-Rust](Rust)  
+[-Rust][Rust]  
+
+
+[About]: https://ypshion.github.io/about/
+[Game-Dev]: https://ypshion.github.io/game-dev/
+[Game-Play]: https://ypshion.github.io/game-play/
+[Illust]: https://ypshion.github.io/illust/
+[Rust]: https://ypshion.github.io/rust/
